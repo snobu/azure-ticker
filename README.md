@@ -1,5 +1,5 @@
 # azure-ticker
-### Display Live Microsoft Azure Services Status on Pioroni's Unicorn HAT ###
+### Display Live Microsoft Azure Services Status on Pimoroni's Unicorn HAT ###
 
 Uses this RSS Feed for Azure Health Status:
 https://azure.microsoft.com/en-us/status/feed/
