@@ -43,5 +43,5 @@ while True:
     else:
         #scroll('FULL HEALTH', 'green')
         #time.sleep(0.5)
-        show_letter(special_smilie, 'green', 400)
+        show_letter(special_smilie, 'cyan', 400)
         time.sleep(59)
